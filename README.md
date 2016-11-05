@@ -2,7 +2,7 @@
 This is a visualization app built as part of the T4WT project, a web privacy platform. It is built using React.js, Leaflet and D3.js.
 
 # Demo
-A demo is available [here](https://t4wt.ngsens.com/demo). It is a static version and some functionnalities are disabled.
+A demo is available [here](https://t4wt.ngsens.com/demo). It lists trackers found on all links listed on the [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit on September 7, 2016. It is a static version and some functionnalities are disabled.
 
 # Usage
 You can build the package from sources, using:
