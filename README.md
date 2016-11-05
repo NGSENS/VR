@@ -6,7 +6,7 @@ A demo is available [here](https://t4wt.ngsens.com/demo). It lists trackers foun
 
 # Usage
 You can build the package from sources, using:
-- npm install
-- npm run dev (development environment)
-- npm run dev:watch (same, rebuilds when a file is edited)
-- npm run prod (production environement, minified)
+1. npm install
+2. npm run dev (development environment)
+3. npm run dev:watch (same, rebuilds when a file is edited)
+4. npm run prod (production environement, minified)
