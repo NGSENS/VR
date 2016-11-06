@@ -4,6 +4,8 @@ This is a visualization app built by James Nolan as part of the T4WT web privacy
 # Demo
 A demo is available [here](https://t4wt.ngsens.com/demo).
 
+[Screenshot](screenshot.png "A screenshot of the demo")
+
 It lists trackers found on all links listed on the [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit on September 7, 2016. It is a static version and some functionnalities are disabled.
 
 # Usage
