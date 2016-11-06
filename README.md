@@ -6,7 +6,9 @@ A demo is available [here](https://t4wt.ngsens.com/demo).
 
 ![Screenshot](screenshot.png "A screenshot of the demo")
 
-It lists trackers found on all links listed on the [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit on September 7, 2016. It is a static version and some functionnalities are disabled.
+It lists trackers found on all links listed on the [Data Is Beautiful](https://www.reddit.com/r/dataisbeautiful/) subreddit on September 7, 2016.
+
+It is a static version and some functionnalities are disabled (authentification required).
 
 # Usage
 You can build the package from sources, using:
