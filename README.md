@@ -8,6 +8,7 @@ It lists trackers found on all links listed on the [Data Is Beautiful](https://w
 
 # Usage
 You can build the package from sources, using:
+
 1. npm install
 2. npm run dev (development environment)
 3. npm run dev:watch (same, rebuilds when a file is edited)
